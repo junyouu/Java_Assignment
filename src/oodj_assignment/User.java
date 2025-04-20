@@ -9,5 +9,5 @@ package oodj_assignment;
  * @author junyo
  */
 public class User {
-    
+    private String username;
 }
