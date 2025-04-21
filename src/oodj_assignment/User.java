@@ -10,4 +10,6 @@ package oodj_assignment;
  */
 public class User {
     private String username;
+    private String Sohai;
+    private String Cibai;
 }
